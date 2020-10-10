@@ -1,0 +1,2 @@
+﻿  function.cpp
+LINK : fatal error LNK1168: cannot open c:\users\msys\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe for writing

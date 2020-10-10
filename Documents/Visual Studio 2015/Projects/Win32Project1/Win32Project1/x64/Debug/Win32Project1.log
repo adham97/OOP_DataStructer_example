@@ -1,0 +1,4 @@
+﻿  Win32Project1.cpp
+c:\users\msys\documents\visual studio 2015\projects\win32project1\win32project1\win32project1.cpp(19): error C2039: 'cout': is not a member of 'std'
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stddef.h(18): note: see declaration of 'std'
+c:\users\msys\documents\visual studio 2015\projects\win32project1\win32project1\win32project1.cpp(19): error C2065: 'cout': undeclared identifier
